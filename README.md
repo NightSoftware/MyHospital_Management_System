@@ -33,3 +33,11 @@ prescription_details – Reçeteye eklenen ilaç satırları
 Özetle:
 Doktor → Randevu → Reçete → İlaçlar
 takip eden bir yapı.
+
+Notlar 📝
+
+SQL dosyası, tüm schema, trigger, fonksiyon, prosedür, view, örnek veri ve test sorgularını içerir.
+
+Çalıştırma sırası dosya içinde belirtilmiştir: DROP → SEQUENCE → TABLOLAR → FONKSİYON → TRIGGER → PROCEDURE → VIEW → ÖRNEK VERİ → TEST SORGULARI → KOMPLEKS SORGULAR
+
+Hatalarla karşılaşırsanız, önce ilgili satırları ve sıralamayı kontrol edin.
